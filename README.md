@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fornewme
-- 👀 I’m interested in that makes me happy.
+- 👀 I’m interested in everything that makes me happy.
 - 🌱 I’m currently learning Italian as I have just relocated to Florence. 
 <!---
 fornewme/fornewme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
